@@ -9,6 +9,13 @@ __pycache__/
 # MacOS
 .DS_Store
 
+# datasets
+dataset/hot_dog/*
+dataset/not_hot_dog/*
+
+# models
+models/*
+
 # Distribution / packaging
 .Python
 build/
